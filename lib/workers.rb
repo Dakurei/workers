@@ -2,6 +2,7 @@ require 'thread'
 require 'monitor'
 require 'set'
 
+require 'workers/sorted_set'
 require 'workers/version'
 require 'workers/exceptions'
 require 'workers/helpers'
